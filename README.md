@@ -52,7 +52,7 @@ Bachelor’s Degree in **Business Information Systems**
 
 ## 🚀 My Projects
 
-### **Rio (12.2024 – Present)**
+### **Under NDA (12.2024 – Present)**
 **Outdoor events app with chat & social features.**  
 🛠️ Tech Stack: **BLoC, Retrofit, Freezed, WebSocket, Go_Router**  
 
